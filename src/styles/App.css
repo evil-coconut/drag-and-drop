@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  width: 100%;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App {
+  width: 400px;
+  background-color: rgb(117, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 0;
+  border: 2px solid #8b8b8bdd;
+  margin: 0 auto;
+}
